@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/AnjaliPortfolio1/static/css/main.72fd7e22.chunk.css",
-    "main.js": "/AnjaliPortfolio1/static/js/main.e150c144.chunk.js",
-    "main.js.map": "/AnjaliPortfolio1/static/js/main.e150c144.chunk.js.map",
+    "main.css": "/AnjaliPortfolio1/static/css/main.5b84594f.chunk.css",
+    "main.js": "/AnjaliPortfolio1/static/js/main.5cb23003.chunk.js",
+    "main.js.map": "/AnjaliPortfolio1/static/js/main.5cb23003.chunk.js.map",
     "runtime-main.js": "/AnjaliPortfolio1/static/js/runtime-main.ec02bd8f.js",
     "runtime-main.js.map": "/AnjaliPortfolio1/static/js/runtime-main.ec02bd8f.js.map",
     "static/css/2.6b3f17e9.chunk.css": "/AnjaliPortfolio1/static/css/2.6b3f17e9.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.7fc3d24f.chunk.js.map": "/AnjaliPortfolio1/static/js/3.7fc3d24f.chunk.js.map",
     "index.html": "/AnjaliPortfolio1/index.html",
     "static/css/2.6b3f17e9.chunk.css.map": "/AnjaliPortfolio1/static/css/2.6b3f17e9.chunk.css.map",
-    "static/css/main.72fd7e22.chunk.css.map": "/AnjaliPortfolio1/static/css/main.72fd7e22.chunk.css.map",
+    "static/css/main.5b84594f.chunk.css.map": "/AnjaliPortfolio1/static/css/main.5b84594f.chunk.css.map",
     "static/js/2.aafc7f22.chunk.js.LICENSE.txt": "/AnjaliPortfolio1/static/js/2.aafc7f22.chunk.js.LICENSE.txt",
     "static/media/PBG.9f2f53a4.jpg": "/AnjaliPortfolio1/static/media/PBG.9f2f53a4.jpg",
     "static/media/about.807850f2.JPG": "/AnjaliPortfolio1/static/media/about.807850f2.JPG",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.ec02bd8f.js",
     "static/css/2.6b3f17e9.chunk.css",
     "static/js/2.aafc7f22.chunk.js",
-    "static/css/main.72fd7e22.chunk.css",
-    "static/js/main.e150c144.chunk.js"
+    "static/css/main.5b84594f.chunk.css",
+    "static/js/main.5cb23003.chunk.js"
   ]
 }
